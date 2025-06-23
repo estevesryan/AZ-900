@@ -9,3 +9,15 @@ Este documento foi criado para compartilhar os conhecimentos adquiridos durante 
 ## Tipos de Serviços de Nuvem
 
 - **IaaS, PaaS e SaaS**
+
+### IaaS:
+
+Voçe pode criar infraestruturas de TI e pagando apenas pelo o que foi consumido, como:
+- 💻 `máquina virtuais`,
+- 💾 `armazenamentos`,
+- 🛜 `redes`
+- ⚙️ `sistemas operacionais`
+
+
+
+   que são fornecidos por um provedor de nuvem ☁ 

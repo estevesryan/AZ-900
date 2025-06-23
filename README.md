@@ -1,6 +1,11 @@
 # BootCamp XP Inc. - Cloud com Inteligência Artificial
-Descrição Esse documento foi criado para mostrar o que foi aprendido durante o BootCamp XP Inc. - Cloud com Inteligência Artificial e acompanhar minha evolução nessa jornada
 
-## Tipos de serviços de nuvem
-- Iaas, PaaS e SaaS
-1. SaaS: 
+## Descrição
+
+Este documento foi criado para compartilhar os conhecimentos adquiridos durante o BootCamp XP Inc. - Cloud com Inteligência Artificial e acompanhar minha evolução nessa jornada. Aqui, você encontrará resumos, anotações e exemplos práticos sobre os principais conceitos de computação em nuvem e inteligência artificial.
+
+---
+
+## Tipos de Serviços de Nuvem
+
+- **IaaS, PaaS e SaaS**
